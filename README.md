@@ -1,2 +1,2 @@
 # GSoc-project
-This is a game in python
+This is a kind of guessing game in python
